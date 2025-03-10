@@ -8,7 +8,7 @@ function Form() {
             <HttpsOutlinedIcon color="secondary"/>
 
             <Typography variant="h5">
-                Sing up
+                Sign up
             </Typography>
 
             <div className="name">
