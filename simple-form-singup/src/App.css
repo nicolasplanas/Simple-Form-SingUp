@@ -1,0 +1,38 @@
+.form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form h5 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+    width: 45%;
+    padding-bottom: 15px;
+}
+
+.email-password-width {
+    width: 45%;
+}
+
+.checkbox-width {
+    width: 45%;
+    padding-bottom: 20px;
+}
+
+.form Button {
+    width: 45%;
+}
+
+.form a {
+    width: 45%;
+    display: flex;
+    justify-content: end;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
